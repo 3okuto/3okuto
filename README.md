@@ -1,13 +1,4 @@
 
-
- _____       _          _        
-|___ /  ___ | | ___   _| |_ ___  
-  |_ \ / _ \| |/ / | | | __/ _ \ 
- ___) | (_) |   <| |_| | || (_) |
-|____/ \___/|_|\_\\__,_|\__\___/ 
-
-
-
 ## Haiii, My Name is 3okuto and Im currently learning Python & Java in Czech Republic. 
 
 <!--
